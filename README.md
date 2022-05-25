@@ -1,5 +1,13 @@
 # Prediction-with-Keras-Deep-Learning
 
+Load Data.
+Define Keras Model.
+Compile Keras Model.
+Fit Keras Model.
+Evaluate Keras Model.
+Tie It All Together.
+Make Predictions
+
 DataSet (.csv) https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
 DataSet info():  https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.names
 Attribute: (all numeric-valued)
